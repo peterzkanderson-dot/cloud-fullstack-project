@@ -22,7 +22,7 @@ This project demonstrates a real-time monitoring system that collects power metr
 
 ## Technologies Used
 
-Here will be using a verity of tools to complete our project.
+Here will be using a variety of tools to complete our project.
  
 - AWS EC2 (cloud hosting) 
 - Docker (containerization) 

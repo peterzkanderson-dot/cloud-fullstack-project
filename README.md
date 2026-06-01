@@ -35,19 +35,25 @@ Here will break down step by step following the Technical Project Criteria and t
 
 ## CI/CD  - Pipeline
 
+
 Here I created my folders and files to organize them for my repository.
 
 <img width="463" height="261" alt="image" src="https://github.com/user-attachments/assets/1be52cba-befc-4318-a0f0-f541128bd505" />
 
+
 <img width="491" height="262" alt="image" src="https://github.com/user-attachments/assets/8582983e-18d5-4288-ba83-cde4d113db4e" />
+
 
 A basic CI/CD pipeline was implemented using GitHub Actions to automate the build and validation process. Every time code is pushed to the main branch, the workflow is triggered to install dependencies and run a simple validation script. This ensures that the project maintains consistency and correctness during development.
 
+
 <img width="975" height="489" alt="image" src="https://github.com/user-attachments/assets/4520a227-4cfa-4d91-b3d7-1b89680f5dd2" />
+
 
 CI/CD implemented using GitHub Actions to automate build and validation on code push. Here is a link to check it out:
 https://github.com/peterzkanderson-dot/cloud-fullstack-project/actions/runs/26691330333
 
+<br>
 
 ## Deployment – Deployment on AWS
 

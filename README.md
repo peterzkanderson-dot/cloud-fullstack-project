@@ -114,6 +114,9 @@ Link for Grafana Dashboard: http://54.255.150.187:3000
 <img width="975" height="483" alt="image" src="https://github.com/user-attachments/assets/28f666c9-f46d-4758-b5b0-f283958a2a74" />
 
 
+Here i created seperate panels for each type of energy, using its proper units
+
+
 <img width="975" height="519" alt="image" src="https://github.com/user-attachments/assets/6b6c858c-8a59-4cee-8c6a-caa72fd062b6" />
 
 
